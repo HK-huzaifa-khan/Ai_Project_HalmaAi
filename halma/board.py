@@ -16,8 +16,6 @@ class Board:
 
     def draw_board(self, win):
         """
-        Draw the checkerboard pattern on the given window.
-
         Parameters:
             win (pygame.Surface): the surface of the window to draw on.
         """
@@ -73,7 +71,6 @@ class Board:
 
     def create_board(self):
         """
-        Initialize the board with the correct pieces in the correct positions.
         Board is represented as a 2D array filled with piece objects and
         empty squares as 0.
         """
