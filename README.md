@@ -40,7 +40,7 @@ Halma is a strategy board game where players try to move all their pieces across
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/HK-huzaifa-khan/Ai_Project_HalmaAi
+   git clone https://github.com/HK-huzaifa-khan/Ai_Project_HalmaAi.git
    cd Ai_Project_HalmaAi
    \`\`\`
 
