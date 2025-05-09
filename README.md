@@ -105,10 +105,6 @@ Potential enhancements for future versions:
 - Customizable piece colors and board themes
 - Tutorial mode for new players
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - The classic Halma board game for the inspiration
