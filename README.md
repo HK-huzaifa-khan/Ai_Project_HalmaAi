@@ -29,7 +29,7 @@ Halma is a strategy board game where players try to move all their pieces across
 
 ## Project Report
 
-[Watch the project report](report/proposal/project-report.pdf)
+[Watch the project report](report&proposal/project-report.pdf)
 
 ### Prerequisites
 
